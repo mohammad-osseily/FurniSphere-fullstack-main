@@ -40,9 +40,9 @@
 
 
 ### Mockups
-| Order History  | Register Page | Products Page |
-| ---| ---| ---|
-| ![Landing](./readme/demo/Order.jpeg) | ![fsdaf](./readme/demo/Register.png) | ![fsdaf](./readme/demo/Products.png) |
+| Order History  | Products Page |
+| ---|  ---|
+| ![Landing](./readme/demo/Order.jpeg) |  ![fsdaf](./readme/demo/Products.png) |
 
 <br><br>
 
