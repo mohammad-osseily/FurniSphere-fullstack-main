@@ -39,6 +39,7 @@
 - Project Figma design [figma](https://www.figma.com/design/zwUhOLaPRnJbtnQzqAMyBs/FurniSpher?node-id=0-1&node-type=canvas&t=cP2lOQMxKSyh8nuS-0)
 
 
+
 ### Mockups
 | Order History  | Products Page |
 | ---|  ---|
